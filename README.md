@@ -19,7 +19,7 @@ Canny Edge Detection is a wonderful edge detection technique. I have implemented
 ## Result
 
 **Original Image**
-![picture alt](./canny_example.png)
+![picture alt](./canny_practice.png)
 
 **Output Image**
 ![picture alt](./canny_output.png) 
